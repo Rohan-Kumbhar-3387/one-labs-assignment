@@ -10,9 +10,10 @@ An end-to-end financial payment reconciliation and discrepancy detection engine 
 
 ## 🔗 Project Links
 
-- **GitHub Repository**: [https://github.com/Rohan-Kumbhar-3387/one-labs-assignment](https://github.com/Rohan-Kumbhar-3387/one-labs-assignment)
-- **Live Streamlit Cloud Deployment**: [https://rohan-kumbhar-3387-one-labs-assignment.streamlit.app](https://rohan-kumbhar-3387-one-labs-assignment.streamlit.app)
-- **Local Development Dashboard**: `http://localhost:8501`
+- **Active Public GitHub Repository**: [https://github.com/YashShinde1102/one-labs-assignment](https://github.com/YashShinde1102/one-labs-assignment)
+- **Target Repository**: [https://github.com/Rohan-Kumbhar-3387/one-labs-assignment](https://github.com/Rohan-Kumbhar-3387/one-labs-assignment) *(Collaborator invite sent)*
+- **Live Streamlit Cloud Deployment**: [https://one-labs-assignment.streamlit.app](https://one-labs-assignment.streamlit.app)
+- **Local Application Server**: `http://localhost:8501`
 
 ---
 
