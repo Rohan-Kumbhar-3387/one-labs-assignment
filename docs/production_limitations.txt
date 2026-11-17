@@ -1,0 +1,3 @@
+The system assumes transaction IDs uniquely identify platform events and does not yet support complex many-to-many settlement allocation or partial settlement matching.
+It currently assumes a single currency per transaction and does not model bank holidays, timezone cutoffs, chargebacks, fees, or settlement reversals comprehensively.
+The synthetic rounding example uses sub-paise residuals for demonstration, so production deployment must replace these assumptions with the institution's actual currency precision, fee, and rounding policies.

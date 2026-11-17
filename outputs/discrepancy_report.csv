@@ -1,0 +1,5 @@
+transaction_id,settlement_id,category,platform_amount,bank_amount,difference,event_date,explanation,recommended_action
+PAY-0060,SET-DUPLICATE-001,Duplicate bank entry,,155.14,,2026-10-16,Multiple bank rows reference PAY-0060; duplicate settlement SET-DUPLICATE-001 is excluded from adjusted totals.,Verify the bank statement and exclude duplicate settlement rows.
+REF-UNMATCHED-001,,Unmatched refund,-750.00,,-750.00,2026-10-28,Refund references missing or invalid original payment 'PAY-DOES-NOT-EXIST'.,Investigate the refund authorization and locate its original payment.
+PAY-0120,SET-0120,Timing difference,311.93,311.93,0.00,2026-11-01,"The platform transaction belongs to the reporting month, but the bank settlement is dated after month-end.",Carry this item into the next reporting period; do not classify it as permanently missing.
+"PAY-0001, PAY-0002, PAY-0003, PAY-0004, PAY-0005",,Aggregate rounding difference,500.020,500.000,0.020,2026-10,"5 residuals are individually within 0.005, but their aggregate 0.020 INR reaches threshold 0.01.","Review aggregate rounding, allocation, and currency-conversion procedures."

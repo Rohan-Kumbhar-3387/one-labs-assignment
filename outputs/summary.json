@@ -1,0 +1,14 @@
+{
+  "report_month": "2026-10",
+  "platform_record_count_raw": 126,
+  "bank_record_count_raw": 125,
+  "platform_total_raw": "28575.970",
+  "bank_total_raw": "29169.160",
+  "platform_total_duplicate_adjusted": "28575.970",
+  "bank_total_duplicate_adjusted": "29014.020",
+  "adjusted_net_difference": "-438.050",
+  "matched_transaction_count": 119,
+  "transaction_count_in_period": 126,
+  "discrepancy_count": 4,
+  "reconciliation_status": "REVIEW REQUIRED"
+}
